@@ -24,3 +24,12 @@ A simple SMS sending application using PHP, Infobip API, and a MySQL database. T
    ```bash
    git clone https://github.com/yourusername/sms-sending-system.git
    cd sms-sending-system
+
+   
+License
+This project is open-source and available under the MIT License.
+
+Acknowledgments
+Infobip API - Used for sending SMS.
+PHP - Server-side scripting language used.
+MySQL - Database management system.
